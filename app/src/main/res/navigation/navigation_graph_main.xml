@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_graph_main">
+
+
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.xento.app.view.NewsFragment"
+        android:label="NewsFragment" />
+    <fragment
+        android:id="@+id/bookFragament"
+        android:name="com.xento.app.view.BookFragament"
+        android:label="BookFragament" />
+
+
+</navigation>

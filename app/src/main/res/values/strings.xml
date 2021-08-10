@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xento Test App</string>
+    <string name="title_book">Book listing</string>
+    <string name="title_news">News Listing</string>
+</resources>
