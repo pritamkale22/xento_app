@@ -24,18 +24,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+       // set News List
         newsviewModel = ViewModelProviders.of(this).get(NewsViewModel::class.java)
         newsviewModel.refresh()
-
-        bookviewModel = ViewModelProviders.of(this).get(BookListViewModel::class.java)
-        bookviewModel.refresh()
-
         newsList.apply {
             layoutManager = LinearLayoutManager(context)
             adapter = newsListAdapter
         }
-
+        // set the Book List
+        bookviewModel = ViewModelProviders.of(this).get(BookListViewModel::class.java)
+        bookviewModel.refresh()
         bookList.apply {
             layoutManager = LinearLayoutManager(context)
             adapter = bookListAdapter
