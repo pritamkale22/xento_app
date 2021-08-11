@@ -22,7 +22,7 @@ class NewsViewModel : ViewModel() {
     val loading = MutableLiveData<Boolean>()
 
     fun refresh() {
-        fetchNesw()
+        fetchNews()
     }
 
     private fun fetchNews() {
