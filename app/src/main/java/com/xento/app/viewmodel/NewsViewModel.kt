@@ -25,7 +25,7 @@ class NewsViewModel : ViewModel() {
         fetchNesw()
     }
 
-    private fun fetchNesw() {
+    private fun fetchNews() {
         loading.value = true
         val sdf = SimpleDateFormat("yyyy-MM-dd")
         val currentDate = sdf.format(Date())
