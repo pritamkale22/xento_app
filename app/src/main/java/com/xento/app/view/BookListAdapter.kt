@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.item_news.view.*
 
 class BookListAdapter(var books: ArrayList<Books>, var mContext:Context): RecyclerView.Adapter<BookListAdapter.UserViewHolder>() {
 
-    fun updateCountries(newbooks: List<Books>) {
+    fun update(newbooks: List<Books>) {
         books.clear()
         books.addAll(newbooks)
         notifyDataSetChanged()
@@ -30,7 +30,7 @@ class BookListAdapter(var books: ArrayList<Books>, var mContext:Context): Recycl
     override fun onBindViewHolder(holder: UserViewHolder, position: Int) {
         holder.bind(books[position])
         holder.itemView.setOnClickListener {
-            val intent = Intent(mContext, BookDetailed::class.java)
+            val intent = Intent(mContext, BookDetailedActivity::class.java)
             //intent.putExtra()[position]
             MainActivity.seletctedBook = books[position]
             mContext.startActivity(intent)

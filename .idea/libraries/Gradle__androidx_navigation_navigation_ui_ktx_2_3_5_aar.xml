@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-ui-ktx:2.3.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/67f1e3ef58a4a62407e931dbbd12a179/navigation-ui-ktx-2.3.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/67f1e3ef58a4a62407e931dbbd12a179/navigation-ui-ktx-2.3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/67f1e3ef58a4a62407e931dbbd12a179/navigation-ui-ktx-2.3.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.5/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

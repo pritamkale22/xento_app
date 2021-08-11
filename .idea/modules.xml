@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xento_app.iml" filepath="$PROJECT_DIR$/.idea/modules/xento_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Retrofit_Coroutines_Example.iml" filepath="$PROJECT_DIR$/.idea/modules/Retrofit_Coroutines_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Retrofit_Coroutines_Example.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Retrofit_Coroutines_Example.app.iml" />
     </modules>
   </component>
 </project>

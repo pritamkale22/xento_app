@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var newsviewModel: NewsViewModel
     lateinit var bookviewModel: BookListViewModel
 
-    private val newsListAdapter = NewsListAdapter(arrayListOf(),this)
-    private val bookListAdapter = BookListAdapter(arrayListOf(),this)
+    private val newsListAdapter = NewsListAdapter(arrayListOf(),this) // news adapter
+    private val bookListAdapter = BookListAdapter(arrayListOf(),this) // book adapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -83,12 +83,10 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-
-
         bookviewModel.books.observe(this, Observer {countries ->
             countries?.let {
 
-                bookListAdapter.updateCountries(it) }
+                bookListAdapter.update(it) }
         })
 
         bookviewModel.booksLoadError.observe(this, Observer { isError ->

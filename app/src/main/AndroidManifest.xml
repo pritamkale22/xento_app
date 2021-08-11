@@ -21,13 +21,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.xento.app.view.NewsDetailed"
+        <activity android:name="com.xento.app.view.NewsDetailedActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden|adjustResize"
             ></activity>
 
-        <activity android:name="com.xento.app.view.BookDetailed"
+        <activity android:name="com.xento.app.view.BookDetailedActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden|adjustResize"

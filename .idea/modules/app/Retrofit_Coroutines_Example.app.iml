@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Retrofit Coroutines Example" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.6.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.6.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/a07f7621aecf21418047666af33ddcd7/jetified-kotlin-android-extensions-runtime-1.3.72.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/f83a8dab2962e43ae15661c41dbc800f/jetified-kotlin-stdlib-jdk7-1.3.72.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/05af1753139b923d9a57a679a2312522/navigation-fragment-ktx-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/f5a7f5b912df59c9b3502ec5c52143bd/jetified-fragment-ktx-1.2.4-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/b4f0d47a73c7306b9bf92d54d87800ef/navigation-ui-ktx-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/ee16e90d6bcea2600a73ed7c06720104/navigation-runtime-ktx-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/ecee66c89e9cb13cc0d605f4e3643898/jetified-activity-ktx-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/eda133384d4041da1dae2f7a66b373fc/jetified-core-ktx-1.3.2-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/490efdefe646094470c0abd3e88406e7/jetified-lifecycle-viewmodel-ktx-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/77f7e8352d2540e988aa75ac54fdebfe/jetified-lifecycle-runtime-ktx-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/85c91feb2022fc20f600bd1257dc1792/jetified-kotlinx-coroutines-android-1.3.9.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/c9978a3983dc903ce673890de246df27/jetified-kotlinx-coroutines-core-jvm-1.3.9.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/76e1004e439bdfdde2b485f88edd4c90/navigation-common-ktx-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/10b8de5ab49066a4d2121b20bc88d4e4/jetified-collection-ktx-1.1.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/1f4f87865f61092ef60a9352e5fef941/jetified-lifecycle-livedata-core-ktx-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/0ff4511cbcb1e822d701f44e861e4fdf/jetified-kotlin-stdlib-1.4.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/658c9bc7ef20da5dc95a0074b468b1b5/jetified-kotlin-stdlib-common-1.4.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/f581a9e78d198ee2a80c5825a1d5591a/jetified-annotations-13.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/864218c1d960b4456066ede4a506c487/constraintlayout-2.0.4-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/5793471f9a052351933eade288e1d1c5/navigation-ui-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/85bb402674c474f613238497d109ff6c/material-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/78b7165ce8a45113037caded3b5b71f5/appcompat-1.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/df2ca86bf88900c0c45d06ed54543896/recyclerview-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/bcc1f09aa568698772dbbf567a1ecd20/legacy-support-core-ui-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/13c4181da950d116d12aafafd8f49cf4/swiperefreshlayout-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/9f3673afb8d33be30ef486db13e20463/jetified-glide-4.11.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/3eb54ed68197f2a0219d2025c6f7b1a2/lifecycle-extensions-2.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/bd194e66f9f57c5d0db9375b973dfd5c/navigation-fragment-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/bf1730cb3de30894c520db3a74200bc0/fragment-1.2.4-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/c96a23f802bd2aef9fdbff8719a6b993/jetified-appcompat-resources-1.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/840b2cd6b3d53cd8d2dd5ae209fd0be5/drawerlayout-1.1.1-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/e0529be63658de388f7fb1ab8a5916cb/viewpager-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/4a918e99cc69973b16be4dd080fb232a/coordinatorlayout-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/9784461a4ef3095728094de3f502964a/slidingpanelayout-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/8cbc99e538936ec73f693fd9decc28d8/customview-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/e9a72d0e20e1b5ab51314e074f5e4f5f/legacy-support-core-utils-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/d2ebd01bbf1dfaf81ac5723af35046f4/loader-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/f64f75c817eeb04bf0e03936f6f71596/navigation-runtime-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/d09f2110d01a7624b8776329f65e7890/jetified-activity-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/89075ca0e1c0bc87f8e365f7631b8d32/vectordrawable-animated-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/0f66939585318a2a43b2764bc27ba604/vectordrawable-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/a969f12b26a3850b042e456cd5a358f3/transition-1.3.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/db5fd48b61211be57e24516a6509d45d/asynclayoutinflater-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/3019aa6eb555bf4c81ac709f88532718/core-1.3.2-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/9b847ebde389baa59122095f5e9f20f0/cursoradapter-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/149e55abcdfe4d5ee05c975a5f966cdd/versionedparcelable-1.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/42f2486ce805a92d9215fe763cfa76ca/interpolator-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/74d2c66a78d383a88f5f1116d6e2425f/jetified-gifdecoder-4.11.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/eeb4c0be747cf5cf0ca6712e8936a115/exifinterface-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/8b4b3086e3cc3d7ace2c9318258bb378/jetified-lifecycle-process-2.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/b50a08478e27a29e6d643eb4455e9e24/jetified-lifecycle-service-2.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/3b015785675f626bb08d9cb1ab139c2a/lifecycle-runtime-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/71b7bb5ad56ea924b5071650427e2fd5/lifecycle-livedata-2.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/eaab04c14154d641aab6425f06a97da8/jetified-lifecycle-viewmodel-savedstate-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/e7db5925bc6bd7cfcc8f7fd44aa48c95/lifecycle-livedata-core-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/8ce5ea1f83b379be3235131c576cd452/core-runtime-2.1.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/5ca3618f5710243dbd36315340e01f99/jetified-savedstate-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/1e42b797344502b063c99b4b91d1ead8/lifecycle-viewmodel-2.2.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/6c51abbd34f9b991a617b8d4c076c5f5/navigation-common-2.3.5-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/925157cdc1709379a3acffa09175700c/cardview-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/dfdd3c3c0a328fff4587ebe5097e2513/documentfile-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/32957db22fb7d62dab84fa792717be25/localbroadcastmanager-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/1eab2c4abe4aa7ad28542e7ff86649dd/print-1.0.0-api.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.4/1f001d7db280a89a6c26b26a66eb064bb6d5efeb/constraintlayout-solver-2.0.4.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/a7eeb69f55892cc803ed642d5d881fe6/jetified-disklrucache-4.11.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/14989822c5950b4c20532d33af82f088/jetified-annotations-4.11.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/468eda3cb306b7e3f20adef636449fc7/jetified-converter-gson-2.6.0.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/672cd75a5a56e2f3dd2e9c9600fda580/jetified-retrofit-2.7.1.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/caa789bdf86cb260c5a51c5f609d6c29/jetified-okhttp-3.14.4.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/19e2fc891951f08fc5f8fd5a65abb5db/jetified-okio-1.17.2.jar:/Users/mac/Desktop/workspace/GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/transforms-2/files-2.1/fd280a7b6f2306261e6356e57578c64b/jetified-gson-2.8.5.jar:/Users/mac/Library/Android/sdk/platforms/android-30/android.jar:/Users/mac/Library/Android/sdk/build-tools/29.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.72/ecbb105a12a9766d2188f454b3bc3aab46cb80b6/kotlin-android-extensions-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.72/fb72232c8fa977d5e07d33c43381ddbdc5edab6/kotlin-compiler-embeddable-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.72/53bbaa2816dbf6bdb85f629451b1fcc88f2164d2/kotlin-daemon-embeddable-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.72/86613e1a669a701b0c660bfd2af4f82a7ae11fca/kotlin-reflect-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.72/657d8d34d91e1964b4439378c09933e840bfe8d5/kotlin-script-runtime-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/6ca8bee3d88957eaaaef077c41c908c9940492d8/kotlin-stdlib-common-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/8032138f12c0180bc4e51fe139d4c52b46db6109/kotlin-stdlib-1.3.72.jar" />
+              <option value="$MODULE_DIR$/../../../../../../../GPS_Truck_Android/spark-kafka-android-master/ApacheSparkApp/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:disklrucache:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:annotations:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:converter-gson:2.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.retrofit2:retrofit:2.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.14.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.17.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment-ktx:1.2.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-ui-ktx:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity-ktx:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core-ktx:1.3.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-common-ktx:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-ui:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:glide:4.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-extensions:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-fragment:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.2.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-runtime:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.3.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:gifdecoder:4.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-process:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-service:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.navigation:navigation-common:2.3.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.3.0@aar" level="project" />
+  </component>
+</module>

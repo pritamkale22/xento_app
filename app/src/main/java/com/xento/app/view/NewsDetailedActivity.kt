@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.activity_news_details.*
 import kotlinx.android.synthetic.main.content.*
 import kotlinx.android.synthetic.main.toolbar.*
 
-class NewsDetailed : AppCompatActivity() {
+class NewsDetailedActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
